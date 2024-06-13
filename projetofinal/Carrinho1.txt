@@ -1,0 +1,8 @@
+Detalhes do Produto: Nome do Produto: Mouse Gamer, Preço R$: 89.9, Garantia: 12 meses, Quantidade: 2
+Detalhes do Produto: Nome: Calça Skinny, Preço: 129.9, Tamanho: 42, Quantidade: 3, Cor: Preto
+Detalhes do Produto: Nome: Bermuda Linho, Preço: 89.9, Tamanho: 42, Quantidade: 1, Cor: Branco
+Detalhes do Produto: Nome: Blusa moletom, Preço: 119.9, Tamanho: 42, Quantidade: 1, Cor: Cinza
+Detalhes do Produto: Nome: Arroz 1Kg, Preço: 29.9, Quantidade: 1, Data de Validade: 03/12/2024
+Detalhes do Produto: Nome: Banana 1Kg, Preço: 12.98, Quantidade: 1, Data de Validade: 17/11/2024
+Detalhes do Produto: Nome: Grão de Milho 1Kg, Preço: 19.89, Quantidade: 1, Data de Validade: 08/5/2025
+Total: 492.37

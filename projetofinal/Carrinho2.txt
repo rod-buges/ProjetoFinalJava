@@ -1,0 +1,8 @@
+Detalhes do Produto: Nome do Produto: Teclado Gamer, Preço R$: 189.9, Garantia: 12 meses, Quantidade: 1
+Detalhes do Produto: Nome: Camiseta Lisa, Preço: 99.9, Tamanho: P, Quantidade: 3, Cor: Preto
+Detalhes do Produto: Nome: Boné, Preço: 89.9, Tamanho: M, Quantidade: 2, Cor: Branco
+Detalhes do Produto: Nome: Feijão 1Kg, Preço: 22.5, Quantidade: 1, Data de Validade: 01/03/2025
+Detalhes do Produto: Nome: Maça 1Kg, Preço: 13.98, Quantidade: 1, Data de Validade: 12/11/2024
+Detalhes do Produto: Nome: Carne Bovina 1Kg, Preço: 27.89, Quantidade: 1, Data de Validade: 12/11/2026
+Detalhes do Produto: Nome: Chocolate, Preço: 5.99, Quantidade: 1, Data de Validade: 21/01/2025
+Total: 450.06
